@@ -51,7 +51,7 @@ async def start(client, message):
             InlineKeyboardButton('🕵️ Search here Movie 🕵️', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('⭕️ Updates', url='https://t.me/movielinkzz),
-            InlineKeyboardButton('Movie Club ⭕️', url='https://t.me/movielimovielinkzz')
+            InlineKeyboardButton('Movie Club ⭕️', url='https://t.me/movielinkzz')
             ],[
             InlineKeyboardButton('❌ Close the Menu ❌', callback_data='close_data')
         ]]
